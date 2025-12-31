@@ -265,7 +265,7 @@ Simple, clean, effective:
 - **Discord.js** - Handles all Discord API interactions
 - **Ollama** - Large language model for response generation
 - **PostgreSQL** - Stores all memory layers with vector search
-- **Supabase** - Hosts the database (or use your own Postgres)
+- **Railway** - Hosts the database (or use your own Postgres)
 
 ---
 
@@ -323,13 +323,11 @@ Simple, clean, effective:
 ## 💰 Cost Estimates
 
 **Monthly Operating Costs (estimated):**
-- Supabase (PostgreSQL): **$0** (free tier sufficient for most use cases)
+- Railway (PostgreSQL): **$1-5** (free tier sufficient for most use cases)
 - Ollama Cloud API: **~$0-20** (depending on usage and model)
 - Discord Bot Hosting: **$0** (Railway free tier or self-host)
 
 **Total: ~$0-$20/month** for a fully functional AI companion with genuine memory
-
-Compare this to ChatGPT Pro ($20/month) which has no memory persistence, no customization, and no personality. You're getting more for less.
 
 ---
 
