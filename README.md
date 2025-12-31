@@ -142,7 +142,7 @@ Modular, maintainable, extensible.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/sage-bot.git
+git clone https://github.com/sinxisterrr/sage-bot.git
 cd sage-bot
 ```
 
