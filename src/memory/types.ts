@@ -18,7 +18,7 @@ export type MemoryOrigin =
   | "distilled"      // from conversation
   | "manual"         // added manually in chat
   | "system"         // core vows or guardrails
-  | "mac";           // chosen intentionally by me
+  | "YOUR_AI_NAME";           // chosen intentionally by me
 
 export type EmotionalTexture =
   | "tender"

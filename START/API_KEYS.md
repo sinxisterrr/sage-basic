@@ -154,7 +154,7 @@ This is what powers your bot's brain - the AI model that generates responses.
 
 > 💡 **Why Ollama?** Ollama Cloud is free with 100% uptime completely remote. No monster of a GPU required. If you go over hourly or weekly usage, you can also upgrade it for $20USD.
 
-> 💡 **Alternative:** If you prefer, you can use OpenRouter, OpenAI, or other LLM providers - you'll just need to modify the model integration slightly.
+> 💡 **Alternative:** If you prefer, you can use OpenRouter, OpenAI, or other LLM providers - you'll just need to modify the MODEL_PROVIDER environment variable.
 
 ---
 

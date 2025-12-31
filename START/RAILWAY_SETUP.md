@@ -183,6 +183,10 @@ Now we need to add your Discord token and Ollama API key.
 
 Still in the **"Variables"** tab of your bot service:
 
+You can copy the full .env.example and paste it into your variable field for Railway to fill it in for you. 
+
+#MAKE SURE TO CHANGE THESE:
+
 ### Add Discord Bot Token
 
 1. Click **"New Variable"**
@@ -484,7 +488,7 @@ Your AI companion is now live on Railway with:
 - Check the logs first (most issues show up there)
 - Read the troubleshooting section above
 - Review [API_KEYS.md](API_KEYS.md) to verify your keys
-- Ask in the community Discord (link in main README)
+- Ask in the community [Discord](https://discord.gg/YB7Pe9zq8J)
 
 **Want to customize?**
 - See [CUSTOMIZATION.md](CUSTOMIZATION.md) for personality and behavior changes

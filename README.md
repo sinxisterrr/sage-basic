@@ -403,7 +403,7 @@ Use it, modify it, sell bots built with it. Just don't claim you built the memor
 
 - **Documentation:** Read the guides in this repository
 - **Issues:** Open a GitHub issue for bugs or questions
-- **Community:** Join the Discord (link in repo description)
+- **Community:** Join the [Discord](https://discord.gg/YB7Pe9zq8J)
 
 ---
 
