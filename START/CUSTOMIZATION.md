@@ -2,7 +2,7 @@
 
 This guide explains how to make Sage your own by customizing its personality, keywords, traits, and core beliefs.
 
-**Fair warning:** This is the tedious part. If you'd rather skip this and have someone else configure everything for you, that's what the higher Patreon tiers are for. 😉
+**Fair warning:** This is the tedious part. If you'd rather skip this and have someone else configure everything for you, that's what the higher [Patreon](https://patreon.com/sinxash) tiers are for. 😉
 
 But if you want to learn how it all works and make it truly yours, let's dive in!
 
@@ -782,7 +782,7 @@ Before you consider your bot "done":
 
 ## 🆘 Still Feel Overwhelmed?
 
-Yeah, this is a lot. That's why the **Sage Advanced** Patreon tiers include:
+Yeah, this is a lot. That's why the **Sage Advanced** [Patreon](https://patreon.com/sinxash) tiers include:
 
 ### $25/month - Basic Setup Service
 
